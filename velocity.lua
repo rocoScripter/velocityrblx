@@ -1,6 +1,3 @@
--- ts file was generated at discord.gg/25ms
-
-
 local v8 = {
     TargetAim = {
         Enabled = false,
